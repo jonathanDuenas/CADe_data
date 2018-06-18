@@ -1,2 +1,19 @@
-# CADe_data
+# CADe/CADx data
+
 Information about CADe/CADx in the use of AI
+
+## Items
+- [What is CADe/CADx](https://en.wikipedia.org/wiki/Computer-aided_diagnosis)
+- [DICOM](https://www.dicomstandard.org/concepts/)
+- [ROI](https://en.wikipedia.org/wiki/Region_of_interest)
+
+## CADe/CADx on DICOM viewers
+- [On pulmonary fibrosis](https://www.researchgate.net/publication/255958386_Utility_of_an_open-source_DICOM_viewer_software_OsiriX_to_assess_pulmonary_fibrosis_in_systemic_sclerosis_Preliminary_results)
+- [On Systemic Sclerosis](https://www.researchgate.net/publication/296624531_Computer-Aided_Tomographic_Analysis_of_Interstitial_Lung_Disease_ILD_in_Patients_with_Systemic_Sclerosis_SSc_Correlation_with_Pulmonary_Physiologic_Tests_and_Patient-Centred_Measures_of_Perceived_Dysp)
+- [Automatic lung nodule detection](https://posterng.netkey.at/esr/viewing/index.php?module=viewing_poster&task=viewsection&pi=112361&ti=354334&si=1094&searchkey=)
+
+## Osirix
+- Most used: [Osirix](https://www.osirix-viewer.com/osirix/overview/)
+- [Plugins](https://www.osirix-viewer.com/resources/plugins/)
+- [Creating plugins](http://www.osirix-viewer.com/Documentation/Guides/Development/index.html)
+- [Multi-layer architecure to create client-server plugins](https://link.springer.com/article/10.1007/s40860-015-0007-1)
