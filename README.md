@@ -17,3 +17,12 @@ Information about CADe/CADx in the use of AI
 - [Plugins](https://www.osirix-viewer.com/resources/plugins/)
 - [Creating plugins](http://www.osirix-viewer.com/Documentation/Guides/Development/index.html)
 - [Multi-layer architecure to create client-server plugins](https://link.springer.com/article/10.1007/s40860-015-0007-1)
+
+## ChestX-ray14
+- [Dataset](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
+- [Dataset analysis](https://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems/)
+- [Baisc implementation](https://github.com/gregwchase/nih-chest-xray)
+
+## ChexNet
+- [Paper](https://stanfordmlgroup.github.io/projects/chexnet/)
+- [Implementation](https://github.com/arnoweng/CheXNet)
