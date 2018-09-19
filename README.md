@@ -11,6 +11,7 @@ Information about CADe/CADx in the use of AI
 - [On pulmonary fibrosis](https://www.researchgate.net/publication/255958386_Utility_of_an_open-source_DICOM_viewer_software_OsiriX_to_assess_pulmonary_fibrosis_in_systemic_sclerosis_Preliminary_results)
 - [On Systemic Sclerosis](https://www.researchgate.net/publication/296624531_Computer-Aided_Tomographic_Analysis_of_Interstitial_Lung_Disease_ILD_in_Patients_with_Systemic_Sclerosis_SSc_Correlation_with_Pulmonary_Physiologic_Tests_and_Patient-Centred_Measures_of_Perceived_Dysp)
 - [Automatic lung nodule detection](https://posterng.netkey.at/esr/viewing/index.php?module=viewing_poster&task=viewsection&pi=112361&ti=354334&si=1094&searchkey=)
+- [An introduction to DICOM file format](http://people.cas.sc.edu/rorden/dicom/index.html)
 
 ## Osirix
 - Most used: [Osirix](https://www.osirix-viewer.com/osirix/overview/)
