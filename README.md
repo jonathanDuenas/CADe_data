@@ -27,3 +27,6 @@ Information about CADe/CADx in the use of AI
 ## ChexNet
 - [Paper](https://stanfordmlgroup.github.io/projects/chexnet/)
 - [Implementation](https://github.com/arnoweng/CheXNet)
+
+## AI Project implementation
+- [Stages, Roles, Tools](https://www.altexsoft.com/blog/datascience/machine-learning-project-structure-stages-roles-and-tools/)
