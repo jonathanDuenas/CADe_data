@@ -27,6 +27,12 @@ Information about CADe/CADx in the use of AI
 ## ChexNet
 - [Paper](https://stanfordmlgroup.github.io/projects/chexnet/)
 - [Implementation](https://github.com/arnoweng/CheXNet)
+- [Reproduce ChexNet] (https://github.com/jrzech/reproduce-chexnet)
 
 ## AI Project implementation
 - [Stages, Roles, Tools](https://www.altexsoft.com/blog/datascience/machine-learning-project-structure-stages-roles-and-tools/)
+
+## CNN/DenseNet
+- [Understanding CNN] (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- [Understanding Dense CCN] (https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a)
+- [DenseNet-121] (https://www.kaggle.com/pytorch/densenet121)
