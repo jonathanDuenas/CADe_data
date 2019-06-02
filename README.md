@@ -36,3 +36,4 @@ Information about CADe/CADx in the use of AI
 - [Understanding CNN](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 - [Understanding Dense CCN](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a)
 - [DenseNet-121](https://www.kaggle.com/pytorch/densenet121)
+- [CNN with numpy](https://victorzhou.com/blog/intro-to-cnns-part-2/)
