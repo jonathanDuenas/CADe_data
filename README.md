@@ -1,6 +1,6 @@
 # CADe/CADx data
 
-Information about CADe/CADx in the use of AI
+Information about CADe/CADx in the use of AI.
 
 ## Items
 - [What is CADe/CADx](https://en.wikipedia.org/wiki/Computer-aided_diagnosis)
